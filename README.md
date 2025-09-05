@@ -1,10 +1,40 @@
-# EXPERIMENT – 4: Scenario-Based Report Development Utilizing Diverse Prompting Techniques- Lab Scenario: Smart Health Assistant System
+# Ex.No.4-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 ### NAME: DIVYA A
 ### Register No: 212222230034
 
-## Description:
-To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts.
-This experiment specifically explores the Smart Health Assistant system named "MediGuide", which supports elderly patients with chronic illnesses such as diabetes, hypertension, and arthritis. The goal is to simulate chatbot behavior using diverse prompting methods across realistic customer service scenarios.
+## Aim:
+To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 2 with Comparative Analysis Prompt, Universal Prompt, Structures Prompt Refinements and Prompt Size Limitations
+
+## Procedure:
+
+1.Define the Scenario and Use Case:
+Scenario:
+The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
+Target Audience:
+Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+
+
+Main Objectives:
+
+•	Improve production efficiency by 30%.
+•	Minimize machinery downtime with predictive maintenance.
+•	Enable real-time monitoring and remote control of manufacturing systems.
+•	Reduce energy consumption by optimizing processes.
+ 
+2.Identify Prompt Patterns for Each Design Aspect:
+Idea Generation Prompts:
+
+•	Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas:
+•	Sensors for real-time monitoring of equipment performance.
+•	Predictive maintenance alerts to anticipate equipment failures.
+•	Energy usage optimization by automating the switching of machines on/off based on demand.
+•	Cloud-based dashboards for remote monitoring and control of machinery.
+
+Persona and Context Prompts:
+
+•	Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context:
+•	The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts.
+•	The system should convey reliability and ease of use, with minimal training required for operators.
 
 ## Background:
 You are part of a development team creating "MediGuide," an AI-powered assistant for elderly patients. MediGuide helps manage health conditions by delivering medication reminders, personalized advice, daily health tips, and emotional support via natural conversation. Prompts must be optimized to generate context-aware, supportive, and empathetic responses tailored to older users.
@@ -51,4 +81,4 @@ Use Case: Responding concisely to general customer queries.
 This experiment demonstrated that using diverse prompting methods greatly enhances the effectiveness of a customer service chatbot. Experiential prompts allowed for more human-like support interactions. Comparative prompts revealed the adaptability of machine-learning models over rule-based bots. Prompt size limitations helped deliver concise and effective responses in constrained environments. Collectively, these techniques empower MediGuide to offer intelligent, empathetic, and streamlined assistance to its users.
 
 ## Result:
-Thus, the prompts were designed and executed successfully. The chatbot MediGuide exhibited strong performance in managing a variety of customer queries using targeted and context-aware prompting strategies.
+Thus the Prompts were exected succcessfully.
